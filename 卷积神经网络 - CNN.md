@@ -5,7 +5,8 @@
 
 之前有看过一些自己方向的论文，但是总体还是属于一种蒙的状态，然后觉得还是有必要把一些Base paper拿出来看看，毕竟基础很重要嘛， 写写随笔谈谈收获。 
 
-![image](https://note.youdao.com/favicon.ico)
+![image](https://github.com/WeiYangBin/Notes-Deep-Learning/blob/master/Picture/Alexnet.png)
+
 上面这个就是CNN的网络架构，跑的数据集是ImageNet
 
 那么我们现在就来“剖析”一下，把deep Learning推上热门的CNN,因为Alex团队用了两个GPU跑，所以图片中的架构被分为两半，而我们下面放在一起进行讨论
